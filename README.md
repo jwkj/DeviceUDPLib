@@ -14,7 +14,7 @@ app/build.gradle中加入
 dependencies {
        ...
        //UDP功能模块库
-       compile 'com.jwkj:DeviceUDPLib:v1.0.9'
+       compile 'com.jwkj:UDPUtilsLib:v1.1.1'
        //UDP基础库（不可少）
        compile 'com.jwkj:udpsender:v2.0.2'
    }
