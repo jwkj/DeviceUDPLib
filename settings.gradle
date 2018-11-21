@@ -1,1 +1,1 @@
-include ':sample',':deviceudp_lib'
+include ':sample'

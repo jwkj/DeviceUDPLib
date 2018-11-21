@@ -35,6 +35,7 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
     //UDP功能模块库
+    compile 'com.jwkj:UDPUtilsLib:v1.1.1'
     //UDP基础库（不可少）
     compile 'com.jwkj:udpsender:v2.0.2'
     compile 'com.p2p.core:p2p-core:0.4.3'
@@ -44,5 +45,4 @@ dependencies {
     compile 'com.github.huangdali:HPermission:v1.0.4'
     compile 'com.android.support:recyclerview-v7:25.3.1'
     compile 'com.zhy:base-rvadapter:3.0.3'
-    compile(name:'deviceudp_lib-release', ext:'aar')
 }
